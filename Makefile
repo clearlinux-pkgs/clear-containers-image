@@ -1,5 +1,5 @@
 PKG_NAME := clear-containers-image
-URL := https://download.clearlinux.org/releases/9810/clear/clear-9810-containers.img.xz
+URL := https://download.clearlinux.org/releases/10180/clear/clear-10180-containers.img.xz
 ARCHIVES :=
 
 include ../common/Makefile.common
