@@ -1,6 +1,6 @@
 Name:           clear-containers-image
 Version:        10180
-Release:        5
+Release:        6
 License:        Artistic-1.0 BSD-3-Clause BSD-3-Clause-Clear BSD-4-Clause-UC GFDL-1.3 GPL-2.0 GPL-2.0+ GPL-3.0 GPL-3.0+ LGPL-2.0 LGPL-2.0+ LGPL-2.1 LGPL-3.0+ MIT MPL-2.0 Public-Domain
 Summary:        Clear Containers Image
 Url:            https://download.clearlinux.org/
