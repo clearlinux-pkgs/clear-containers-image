@@ -1,11 +1,11 @@
 Name:           clear-containers-image
-Version:        12670
-Release:        14
+Version:        12860
+Release:        15
 License:        Artistic-1.0 BSD-3-Clause BSD-3-Clause-Clear BSD-4-Clause-UC GFDL-1.3 GPL-2.0 GPL-2.0+ GPL-3.0 GPL-3.0+ LGPL-2.0 LGPL-2.0+ LGPL-2.1 LGPL-3.0+ MIT MPL-2.0 Public-Domain
 Summary:        Clear Containers Image
 Url:            https://download.clearlinux.org/
 Group:          image
-Source0:        https://download.clearlinux.org/releases/12670/clear/clear-12670-containers.img.xz
+Source0:        https://download.clearlinux.org/releases/12860/clear/clear-12860-containers.img.xz
 Source1:        LICENSE
 
 %description
