@@ -1,11 +1,11 @@
 Name:           clear-containers-image
-Version:        15840
+Version:        16020
 Release:        25
 License:        Artistic-1.0 BSD-3-Clause BSD-3-Clause-Clear BSD-4-Clause-UC GFDL-1.3 GPL-2.0 GPL-2.0+ GPL-3.0 GPL-3.0+ LGPL-2.0 LGPL-2.0+ LGPL-2.1 LGPL-3.0+ MIT MPL-2.0 Public-Domain
 Summary:        Clear Containers Image
 Url:            https://download.clearlinux.org/
 Group:          image
-Source0:        https://download.clearlinux.org/releases/15840/clear/clear-15840-containers.img.xz
+Source0:        https://download.clearlinux.org/releases/16020/clear/clear-16020-containers.img.xz
 Source1:        LICENSE
 
 %description
